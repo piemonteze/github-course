@@ -1,5 +1,5 @@
 # Git Course
-235781452371472354723157423514251423
+
 Este é um repositorio teste para ensinar como o Git Funciona.
 
 Saiba mais no Link: [site]
